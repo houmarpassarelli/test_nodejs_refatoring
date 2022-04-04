@@ -1,0 +1,143 @@
+{
+    "specific_days": [
+      {
+        "rule_id": "522b55bf-3f12-486c-ba97-2e6aec528684",
+        "day": "18-10-2021",
+        "this_day_of_the_week_name": "segundas",
+        "intervals": [
+          {
+            "interval_id": "9a211f92-4541-40c8-b6f3-22024639642c",
+            "start": "13:30",
+            "end": "14:00"
+          }
+        ]
+      },
+      {
+        "rule_id": "024701c7-6ef0-47d0-82bf-13ebe8872914",
+        "day": "19-10-2021",
+        "this_day_of_the_week_name": "tercas",
+        "intervals": [
+          {
+            "interval_id": "5e8e4da2-b1a8-41a3-b0c8-2a0d24d9736a",
+            "start": "10:30",
+            "end": "11:00"
+          }
+        ]
+      },
+      {
+        "rule_id": "f45b13c6-a0fe-4fa4-964e-50f236060be0",
+        "day": "20-10-2021",
+        "this_day_of_the_week_name": "quartas",
+        "intervals": [
+          {
+            "interval_id": "9b938afa-0642-42d3-9117-acc645e8d77c",
+            "start": "10:30",
+            "end": "11:00"
+          }
+        ]
+      },
+      {
+        "rule_id": "64bf297e-434e-46b2-90ef-ab9d391b3c83",
+        "day": "21-10-2021",
+        "this_day_of_the_week_name": "quintas",
+        "intervals": [
+          {
+            "interval_id": "ab0b61b0-9c35-4006-bc11-499e3dc35c68",
+            "start": "10:30",
+            "end": "11:00"
+          },
+          {
+            "interval_id": "1d841d87-165c-418b-ba4e-a59992506b15",
+            "start": "17:30",
+            "end": "18:00"
+          }
+        ]
+      },
+      {
+        "rule_id": "b53d9d1f-8fcd-40b0-bab8-b61683a829d0",
+        "day": "22-10-2021",
+        "this_day_of_the_week_name": "sextas",
+        "intervals": [
+          {
+            "interval_id": "5a51eaf8-eefb-4019-b719-874791e1b5b4",
+            "start": "8:00",
+            "end": "9:00"
+          }
+        ]
+      }
+    ],
+    "daily": [
+      {
+        "rule_id": "85b5b40e-88b1-4302-ba72-e57fe3da393e",
+        "start": "10:30",
+        "end": "11:00"
+      },
+      {
+        "rule_id": "7013c76b-3fba-4d75-b47d-472929a641c5",
+        "start": "11:30",
+        "end": "12:00"
+      }
+    ],
+    "weekly": [
+      {
+        "rule_id": "9b815e51-ba42-4a75-a39b-f534a104f19f",
+        "day_of_the_week_name": "segundas",
+        "intervals": [
+          {
+            "interval_id": "f8719722-03de-46f3-81cd-725cb6d1a67c",
+            "start": "11:30",
+            "end": "12:00"
+          },
+          {
+            "interval_id": "1da84a08-d374-429a-b0b0-6f0876386cce",
+            "start": "9:30",
+            "end": "10:00"
+          }
+        ]
+      },
+      {
+        "rule_id": "7fb02686-74a2-4fa7-89d9-7d986b9ad294",
+        "day_of_the_week_name": "tercas",
+        "intervals": [
+          {
+            "interval_id": "707b17c6-9536-4018-b1d9-5bf9c7ace999",
+            "start": "17:30",
+            "end": "18:00"
+          }
+        ]
+      },
+      {
+        "rule_id": "345fa7a6-28ec-4b47-b5e3-b759dc4cc104",
+        "day_of_the_week_name": "quartas",
+        "intervals": [
+          {
+            "interval_id": "9a211f92-4541-40c8-b6f3-22024639642c",
+            "start": "10:30",
+            "end": "11:00"
+          }
+        ]
+      },
+      {
+        "rule_id": "5a45027d-6bec-456d-9f6a-bd1f066503af",
+        "day_of_the_week_name": "quintas",
+        "intervals": [
+          {
+            "interval_id": "40150e63-8b7e-4796-90ee-d649b2c1a546",
+            "start": "17:30",
+            "end": "18:00"
+          }
+        ]
+      },
+      {
+        "rule_id": "5d8a9f6a-312f-4984-8600-4082ccc96510",
+        "day_of_the_week_name": "sextas",
+        "intervals": [
+          {
+            "interval_id": "0b3b4f9e-fd04-4780-9efe-9200c3fbab7e",
+            "start": "8:30",
+            "end": "9:00"
+          }
+        ]
+      }
+    ]
+  }
